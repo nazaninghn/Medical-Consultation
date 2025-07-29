@@ -5,7 +5,7 @@ from langchain.tools import Tool
 from PIL import Image
 import PyPDF2
 from docx import Document
-import speech_recognition as sr
+# import speech_recognition as sr  # Removed for cloud deployment
 from gtts import gTTS
 import io
 import base64
