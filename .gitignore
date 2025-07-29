@@ -195,3 +195,7 @@ cache/
 # Local configuration
 local_settings.py
 local_config.py
+
+# Vercel
+.vercel
+dist/
