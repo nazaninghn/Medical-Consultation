@@ -2,6 +2,8 @@
 
 A beautiful, luxurious web-based medical assistant chatbot designed for general practitioner consultations. This AI-powered assistant helps users understand their symptoms and provides guidance on when to seek medical care.
 
+**Developed by Nazanin** - Advanced Medical Consultation System
+
 ## ✨ Features
 
 - **Beautiful UI**: Luxurious design with gold, navy, and emerald color scheme
@@ -154,3 +156,16 @@ This project is for educational and demonstration purposes. Please ensure compli
 ---
 
 **Remember**: This tool is designed to assist and educate, not to replace professional medical care. Always consult with healthcare professionals for medical concerns.
+
+## 👩‍💻 **Developer**
+
+**Nazanin** - Full Stack Developer & AI Enthusiast
+
+- 🩺 **Specialized in**: Medical AI Applications
+- 🚀 **Technologies**: Python, Flask, LangChain, Google Gemini AI
+- 💡 **Focus**: Healthcare Technology & User Experience
+- 🌟 **Mission**: Making healthcare more accessible through AI
+
+---
+
+*© 2025 Nazanin - GP Medical Assistant. Crafted with ❤️ and cutting-edge AI technology.*
