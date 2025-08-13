@@ -37,7 +37,8 @@ Respond in a helpful, professional manner while being clear about limitations.
 llm = ChatGoogleGenerativeAI(
     model="gemini-1.5-flash",
     temperature=0.3,
-    max_output_tokens=1000
+    max_output_tokens=1000,
+    google_api_key=os.getenv('GOOGLE_API_KEY')
 )
 
 # JSON Output Parser
